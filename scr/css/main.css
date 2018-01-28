@@ -1,0 +1,9 @@
+:root{
+  --mapx: 640;
+  --mapy: 480;
+}
+
+#main_map_id {
+  height: var(--mapx);
+  width: var(--mapy);
+}
